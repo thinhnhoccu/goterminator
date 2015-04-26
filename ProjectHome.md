@@ -1,0 +1,1 @@
+Gomoku Terminator is a little program that computer will sure win if takes black stone,it completely terminated the gomoku game
